@@ -1,0 +1,21 @@
+-----------------------------------------------------------------------------
+Date : 18-Jan-21 01:24:15
+
+System.NullReferenceException
+Message : Object reference not set to an instance of an object.
+StackTrace :    at App.CompanyRepository.GetById(Int32 id) in C:\Divya\Assignments\Citwire\Citywire coding test\App\App\CompanyRepository.cs:line 16
+   at App.CustomerRepository.AddCustomer(String firname, String surname, String email, DateTime dateOfBirth, Int32 companyId) in C:\Divya\Assignments\Citwire\Citywire coding test\App\App\CustomerRepository.cs:line 21
+-----------------------------------------------------------------------------
+Date : 18-Jan-21 01:24:16
+
+System.NullReferenceException
+Message : Object reference not set to an instance of an object.
+StackTrace :    at App.CompanyRepository.GetById(Int32 id) in C:\Divya\Assignments\Citwire\Citywire coding test\App\App\CompanyRepository.cs:line 16
+   at App.CustomerRepository.AddCustomer(String firname, String surname, String email, DateTime dateOfBirth, Int32 companyId) in C:\Divya\Assignments\Citwire\Citywire coding test\App\App\CustomerRepository.cs:line 21
+-----------------------------------------------------------------------------
+Date : 18-Jan-21 01:24:16
+
+System.NullReferenceException
+Message : Object reference not set to an instance of an object.
+StackTrace :    at App.CompanyRepository.GetById(Int32 id) in C:\Divya\Assignments\Citwire\Citywire coding test\App\App\CompanyRepository.cs:line 16
+   at App.CustomerRepository.AddCustomer(String firname, String surname, String email, DateTime dateOfBirth, Int32 companyId) in C:\Divya\Assignments\Citwire\Citywire coding test\App\App\CustomerRepository.cs:line 21
